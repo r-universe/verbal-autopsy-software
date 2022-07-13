@@ -1,5 +1,9 @@
 [
   {
+    "package": "InSilicoVA",
+    "oncran": true
+  },
+  {
     "package": "openVA",
     "oncran": true
   }
