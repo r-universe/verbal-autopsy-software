@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "InterVA4",
+    "oncran": true
+  },
+  {
     "package": "openVA",
     "oncran": true
   }

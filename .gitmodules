@@ -9,6 +9,11 @@
 	shallow = true
 	subdir = InSilicoVA
 	registered = true
+[submodule "InterVA4"]
+	path = InterVA4
+	url = https://github.com/verbal-autopsy-software/interva4
+	shallow = true
+	registered = true
 [submodule "openVA"]
 	path = openVA
 	url = https://github.com/verbal-autopsy-software/openva
