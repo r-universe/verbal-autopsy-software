@@ -1,21 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "InSilicoVA"]
 	path = InSilicoVA
 	url = https://github.com/verbal-autopsy-software/insilicova
-	shallow = true
 	subdir = InSilicoVA
-	registered = true
 [submodule "InterVA4"]
 	path = InterVA4
 	url = https://github.com/verbal-autopsy-software/interva4
-	shallow = true
-	registered = true
 [submodule "openVA"]
 	path = openVA
 	url = https://github.com/verbal-autopsy-software/openva
-	shallow = true
-	registered = true
