@@ -6,6 +6,9 @@
 	path = InSilicoVA
 	url = https://github.com/verbal-autopsy-software/insilicova
 	subdir = InSilicoVA
+[submodule "InterVA4"]
+	path = InterVA4
+	url = https://github.com/verbal-autopsy-software/interva4
 [submodule "openVA"]
 	path = openVA
 	url = https://github.com/verbal-autopsy-software/openva
